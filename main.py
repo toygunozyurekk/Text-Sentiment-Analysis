@@ -2,9 +2,9 @@ import os
 import tweepy 
 from dotenv import load_dotenv 
 import re 
-import nltk 
 from nltk.corpus import stopwords 
-from nltk.stem import WordNetLemmatizer 
+from nltk. stem import WordNetLemmatizer 
+import nltk 
 
 
 nltk.download('stopwords')
